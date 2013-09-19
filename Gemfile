@@ -35,6 +35,9 @@ end
 # Nifty Generators to scaffold niftily!!
 gem "nifty-generators"
 
+#Authlogic to provide authentication for users
+gem "authlogic"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
